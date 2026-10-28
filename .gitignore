@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.env*
+!.env.example
+
+# Local design notes, not part of the public profile
+CLAUDE.md
+PRODUCT.md
+.impeccable/
