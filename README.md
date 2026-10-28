@@ -1,4 +1,4 @@
-# Naufal Rizky Ananda
+<img src="assets/header.gif" width="100%" alt="Naufal Rizky Ananda, Originium-powered developer">
 
 **Fullstack Developer.** I build full-stack web apps, from database to UI.
 
@@ -24,6 +24,9 @@ I like owning a feature from end to end: shaping the database schema, writing th
 ![Express](https://img.shields.io/badge/Express-121416?style=for-the-badge&logo=express&logoColor=1FB5E9)
 ![Go](https://img.shields.io/badge/Go-121416?style=for-the-badge&logo=go&logoColor=1FB5E9)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121416?style=for-the-badge&logo=postgresql&logoColor=1FB5E9)
+
+**Other**<br>
+![Python](https://img.shields.io/badge/Python-121416?style=for-the-badge&logo=python&logoColor=1FB5E9)
 
 ## Projects
 
