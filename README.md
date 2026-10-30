@@ -12,7 +12,7 @@ I like owning a feature from end to end: shaping the database schema, writing th
 
 ## Tech stack
 
-<img align="right" width="150" hspace="15" src="assets/texas-omertosa.gif" alt="Chibi Texas the Omertosa from Arknights, fan art by Seseren">
+<img align="right" width="20%" hspace="13%" src="assets/texas-omertosa.gif" alt="Chibi Texas the Omertosa from Arknights, fan art by Seseren">
 
 **Main**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-121416?style=for-the-badge&logo=typescript&logoColor=1FB5E9)
